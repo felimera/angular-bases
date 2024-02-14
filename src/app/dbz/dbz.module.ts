@@ -16,7 +16,7 @@ import { AddCharacterComponent } from './components/add-character/add-character.
     MainPageComponent
   ],
   imports: [
-    // CommonModule
+    CommonModule
   ]
 })
 export class DbzModule { }
